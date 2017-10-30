@@ -12,3 +12,4 @@ Branch test 2 on master
 
 Branch test 3
 
+Branch test4
